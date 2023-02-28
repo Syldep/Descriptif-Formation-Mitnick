@@ -18,25 +18,35 @@ Network =>
   
   Outils et frameworks d'analyse et de pentest qu'il nous a été demander de prendre en main afin de répondre aux défis qui ont suivit. Par ailleurs, la participation à des event tels que des CTF m'a permis de mieux comprendre et assimiler, parfois même trouver de meilleurs outils, ou simplement différent.
   
-  -Kali                                             -Sherlock
+  -Kali                                             
+  -Sherlock
   
-  -Tsurugi                                          -WireShark
+  -Tsurugi                                         
+  -WireShark
   
-  -Nmap / SqlMap / smbmap /                         -BurpSuite
+  -Nmap / SqlMap / smbmap /                        
+  -BurpSuite
   
-  -Owasp                                            -Nessos
+  -Owasp                                          
+  -Nessos
   
-  -Nikto                                            -Nessus
+  -Nikto                                           
+  -Nessus
   
-  -Karkinos                                         -Aircrack / Airckarck-Ng / FcrackZip / ..
+  -Karkinos                                        
+  -Aircrack / Airckarck-Ng / FcrackZip / ..
   
-  -Metasploit                                       -JohnTheRipper    
+  -Metasploit                                       
+  -JohnTheRipper    
   
-  -Sifter                                           -OpenVas  
+  -Sifter                                          
+  -OpenVas  
   
-  -Sn1per                                           -SSLSCAN
+  -Sn1per                                           
+  -SSLSCAN
   
-  -Hydra                                             -Ghidra
+  -Hydra                                            
+  -Ghidra
   
  Etablissement d'un rapport en fin de test de penetration.
   
