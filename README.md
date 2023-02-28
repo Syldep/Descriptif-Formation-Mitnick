@@ -29,6 +29,8 @@ Network =>
   -Sn1per                                           -SSLSCAN
   -Hydra                                             -Ghidra
   
+ Etablissement d'un rapport en fin de test de penetration.
+  
  Des plateformes d'entrainementsur les quelle snous avons pu mettre en pratique ce qui nous avais été enseigné.
  
  https://www.hackthebox.com/
