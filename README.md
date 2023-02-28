@@ -34,13 +34,21 @@ Network =>
  Des plateformes d'entrainementsur les quelle snous avons pu mettre en pratique ce qui nous avais été enseigné.
  
  https://www.hackthebox.com/
+ 
 https://theblackside.fr/
+
 https://blueteamlabs.online/
+
 https://tryhackme.com/
+
 https://www.root-me.org/
+
 https://pentesterlab.com/
+
 https://elearnsecurity.com/
+
 https://www.offensive-security.com/
+
 https://www.virtualhackinglabs.com/
 
  
