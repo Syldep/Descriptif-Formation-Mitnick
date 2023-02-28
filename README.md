@@ -16,35 +16,31 @@ Network =>
   
   Azure AD => Gestion d'utilisateurs.
   
+  Compréhension de l'importance et du rôle d'un CyberSecurityOfficer
+  
+  
   Outils et frameworks d'analyse et de pentest qu'il nous a été demander de prendre en main afin de répondre aux défis qui ont suivit. Par ailleurs, la participation à des event tels que des CTF m'a permis de mieux comprendre et assimiler, parfois même trouver de meilleurs outils, ou simplement différent.
   
   -Kali                                             
   -Sherlock
-  
+  -Mitre
   -Tsurugi                                         
   -WireShark
-  
   -Nmap / SqlMap / smbmap /                        
   -BurpSuite
-  
-  -Owasp                                          
-  -Nessos
-  
+  -Owasp   
+  -CyberChef
+  -Dcod
   -Nikto                                           
   -Nessus
-  
   -Karkinos                                        
   -Aircrack / Airckarck-Ng / FcrackZip / ..
-  
   -Metasploit                                       
   -JohnTheRipper    
-  
   -Sifter                                          
   -OpenVas  
-  
   -Sn1per                                           
   -SSLSCAN
-  
   -Hydra                                            
   -Ghidra
   
@@ -69,6 +65,8 @@ https://elearnsecurity.com/
 https://www.offensive-security.com/
 
 https://www.virtualhackinglabs.com/
+
+J'ai aussi eu l'occasion d'étudier les textes des ISO 27001/2/5 => SMSI, Risk Managment, Risk Evaluation.
 
  
  
